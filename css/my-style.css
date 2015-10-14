@@ -10,6 +10,6 @@ dislplay:block;
 clear:both;
 }
 .first{
-    float:both;
-    width: 755px;
+    text-align: center;
+    width: 100%;
 }
