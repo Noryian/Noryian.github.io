@@ -1,0 +1,7 @@
+*{
+background-color:purple;
+}
+a:link{
+color: yellow;
+}
+.clearfix:after{

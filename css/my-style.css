@@ -1,0 +1,15 @@
+*{
+background-color:purple;
+}
+a:link{
+color: yellow;
+}
+.clearfix:after{
+content:";
+dislplay:block;
+clear:both;
+}
+.first{
+    float:both;
+    width: 755px;
+}
