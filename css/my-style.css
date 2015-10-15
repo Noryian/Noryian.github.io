@@ -32,3 +32,11 @@ a:link {
 #first p{
     font-size: 31px;
 }
+#second img{ 
+    float: left;    
+}
+#second p{
+    float: right;
+}
+
+    
