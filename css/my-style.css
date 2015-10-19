@@ -1,6 +1,7 @@
 body {
     background-color: purple;
     font-size: 20px;
+    color: yellow;
 }
 
 header h1{
@@ -38,5 +39,15 @@ a:link {
 #second p{
     float: right;
 }
+.news{
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+    
+.news img{
+    width: 20%;
+}
+    
 
     
