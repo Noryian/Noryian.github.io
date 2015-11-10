@@ -1,0 +1,24 @@
+
+html,body{
+   height: 100%;
+    font-family: sans-serif;
+   font-size: 15px; 
+}
+
+
+.my-hero{
+    margin-top: 50px;
+    background: url("../img/Buy_Hero_117895303_1024x500_2x.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: azure;
+    height: 80%;
+    
+}
+.my-first a{
+    
+    color: black;
+    font-size: 25px;
+}
