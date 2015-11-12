@@ -8,6 +8,7 @@ html,body{
 
 .my-hero{
     margin-top: 50px;
+    padding-top: 200px;
     background: url("../img/Buy_Hero_117895303_1024x500_2x.jpg");
     background-position: center;
     background-repeat: no-repeat;
