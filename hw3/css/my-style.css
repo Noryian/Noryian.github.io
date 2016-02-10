@@ -1,0 +1,39 @@
+header{
+    
+   background-color: blue;
+    color: white;
+}
+nav a{
+    
+  color: white;
+    
+}
+.text{
+text-align: left;
+}
+
+.customer{
+    
+    
+ background-color: rgb(240,240,240);  
+}
+ h3{
+    
+ font-size: 1.9em;   
+    
+}
+td{
+    
+ width: 500px;   
+    
+}
+img{
+    
+  width: 100%;  
+    
+}
+p{
+    
+    padding-bottom: 20px;
+    
+}
