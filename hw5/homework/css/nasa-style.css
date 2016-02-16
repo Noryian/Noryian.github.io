@@ -1,0 +1,17 @@
+.space{
+    width: 850px;
+    height: 450px;
+    background-image:url('../img/nasa-background.jpg');
+    background-size: cover;
+    background-repeat:none;
+    text-align: center;
+        
+    
+}
+.text{
+    
+  color: azure;
+    font-size: 30px;
+    
+    
+}
