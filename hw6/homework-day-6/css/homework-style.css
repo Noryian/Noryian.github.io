@@ -1,24 +1,27 @@
 
-main{
-    width:50%;
+.box{
+    
+    padding: 15px;
     float: right;
     text-align: center;
-    
+     
 }
-main img{
-  width: 320px;  
+.box img{
+  width: 230px;
+    
     
     
     
 }
 .text{
-    width: 25%;
+    width: 40%;
    float: right;
-    
+
     
 }
+
 body{
-    
+ width: 700px;   
     
     
     
@@ -28,4 +31,23 @@ body{
    text-align: center; 
     
 }
+.keyboard {
+    
+  width: 350px;
+   
+    
+}
+.keyboard img{
+  width:  350px;
+    
+}
+
+.clear-fix:after{
+    content:""; 
+    display:block;
+    clear: right;
+    
+}
+
+
 
