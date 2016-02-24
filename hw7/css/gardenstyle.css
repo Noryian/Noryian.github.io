@@ -45,5 +45,16 @@ aside{
     display: block;
     clear: both;
 }
+#only{
+   width: 100%; 
     
+    
+}
+    
+.garden{
+    
+  background-image: url(..//img/1.jpg);  
+  background-repeat: no-repeat;
+  width: 800px;
+  padding: 60px;
 }
