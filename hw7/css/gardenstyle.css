@@ -25,6 +25,13 @@
      background-repeat: no-repeat;
     
 }
+h1 #land{
+    
+   color: azure; 
+    
+    
+    
+}
 #land{
   background-image: url(../img/featured-image-5.jpg);
     background-repeat: no-repeat;
@@ -46,8 +53,9 @@ aside{
     clear: both;
 }
 #only{
-   width: 100%; 
-    
+   width:900px; 
+    font-size: 16px;
+    line-height: 1.6;
     
 }
     
@@ -55,6 +63,25 @@ aside{
     
   background-image: url(..//img/1.jpg);  
   background-repeat: no-repeat;
-  width: 800px;
-  padding: 60px;
+  max-width: 100%;  
+  padding: 70px;
+  text-align: center;
+  color: azure;
+    
 }
+ .contact{
+    
+    color: greenyellow;
+    
+    
+}
+h2{
+    
+ color: azure;   
+    
+}
+
+    
+    
+    
+    
