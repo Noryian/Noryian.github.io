@@ -1,0 +1,112 @@
+
+header{
+    
+  height: 20px;  
+  padding: 15px;  
+}
+header h1{
+    
+  float: left;  
+  text-transform: uppercase;  
+    
+}
+header nav{
+   float: right;  
+    
+    
+}
+header nav a{
+    
+    text-decoration: none;
+    color: #000;
+    margin-left: 15px;
+    
+}
+header nav a:hover{
+    
+    text-decoration: underline;
+    
+}
+
+
+
+body{
+    
+  font-family: 'Open Sans',sans-serif;
+  font-size: 16px;  
+    
+}
+#hero{
+    color: #fff;
+    background: linear-gradient(to bottom, rgba(20,20,20,0.9) 0%,rgba(0,0,0,0.8) 100%), url(..//img/wine-bg.jpg);
+    background-position: center;
+  height: 500px;
+    text-align: center;
+    padding-top: 250px;
+    
+}
+#hero h2{
+    
+  margin-bottom: 50px;  
+   font: 80px; 
+}
+
+#about {
+    
+   margin-right: inherit;
+    text-decoration: none;
+    padding: 5px;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    
+}
+
+img{float: right;
+    margin: 0px 0px 15px 15px;
+    width: 20;
+    
+    
+}
+.pic{
+    
+  width: 45%;  
+  float: right;  
+}
+.clear-fix:after{
+    
+    content: '';
+    display: block;
+    clear: both;
+    
+}
+#testimonial{
+    
+    color: azure;
+    background-image: url(../img/wine13.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 150px 50px;
+    float: left;
+    width: 100%;
+}
+.wine img{
+
+width:  30%;
+
+}
+
+.wine{
+   width: 33%; 
+  text-align: center;  
+  float: left;  
+}
+
+ #unbox{
+     
+     float:left;
+     width: 100%;
+     
+ }
