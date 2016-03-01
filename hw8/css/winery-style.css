@@ -59,14 +59,22 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
+    float: left;
+    width: 30%;
     
 }
 
-img{float: right;
+
+#unbox img{float: right;
     margin: 0px 0px 15px 15px;
     width: 20;
     
     
+}
+#unbox{
+    
+   padding-left: 350px;
+   padding-top: 200px;
 }
 .pic{
     
@@ -104,9 +112,10 @@ width:  30%;
   float: left;  
 }
 
- #unbox{
+/* #unbox{
      
      float:left;
      width: 100%;
      
  }
+*/
