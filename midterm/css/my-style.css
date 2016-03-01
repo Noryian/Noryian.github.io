@@ -1,0 +1,14 @@
+.container{   
+    
+    
+    width: 80%; 
+    margin: 0 auto;
+}
+#hero{
+    
+    background-image: url(..//img/60538.jpg/);
+    background-position: center;
+    background-size: cover;
+    height: 150px;
+    text-align: center;
+}
