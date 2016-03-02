@@ -4,11 +4,66 @@
     width: 80%; 
     margin: 0 auto;
 }
+header{
+    
+    height: 50px;
+    padding: 10px 0px;
+    
+}
+header h1{
+    font-size: 1.7em;
+    float: left;
+    
+}
+header nav{
+    
+    float: right;
+    
+}
+header nav a{
+    
+    text-decoration: none;
+    color: #000;
+}
+
+
+body{
+    
+ font-family: sans-serif;   
+    
+}
+
 #hero{
     
-    background-image: url(..//img/60538.jpg/);
+    background-image: url("../img/60538.jpg");
+    padding: 250px 0;
     background-position: center;
-    background-size: cover;
-    height: 150px;
     text-align: center;
+    color: yellow;
+}
+#hero img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#hero a{
+    
+  color: azure;  
+    
+    
+}
+#info{
+    
+    padding: 50px 25px;
+    
+}
+#info div{
+    
+    float: left;
+    
+}
+.clear-fix: after{
+   display: block;
+    content: '';
+    clear: both;
 }
