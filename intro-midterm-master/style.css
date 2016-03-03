@@ -1,0 +1,42 @@
+.clear-fix :after{
+    content: '';
+    display: block;
+    clear:both
+    
+    
+}
+
+
+header{
+    
+    text-align: center;
+    
+    
+}
+.pizza{
+    
+   background-image: url(./img/pizza.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 250px;
+ 
+    
+    
+}
+.text h1{
+    text-align: center;
+    
+    
+}
+#more{
+    
+
+    
+}
+.italy{
+    float: left;
+    width: 33%;
+    
+    
+}
