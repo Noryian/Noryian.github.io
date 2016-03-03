@@ -57,13 +57,40 @@ body{
     padding: 50px 25px;
     
 }
-#info div{
-    
+.drake{
     float: left;
     
 }
-.clear-fix: after{
+#info .text{
+    width: 50%; 
+    float: left;
+    padding: 30px;
+}
+.first{
+    
+    text-align: center;
+}
+.clear-fix:after{
    display: block;
     content: '';
     clear: both;
+}
+
+
+#experince div{
+    
+    float: left;
+    width: 23%;
+    text-align: center;
+   /* margin-right: 28px;*/
+}
+#experince div:last-child{
+    margin-right: 0;
+    
+}
+
+#experince img{
+    
+    width: 250px;
+    
 }
