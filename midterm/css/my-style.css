@@ -94,3 +94,21 @@ body{
     width: 250px;
     
 }
+#music .artist{
+    
+ width: 500px;
+ height: 333px;
+ margin: 0, auto;
+    
+}
+#music img{
+    
+   width: 100%; 
+    
+}
+#music>div{
+   width: 50%;
+    float: left;
+    text-align: center;
+    
+}
