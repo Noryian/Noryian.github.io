@@ -1,0 +1,44 @@
+@media (min-width: 768px) and (max-width: 991px) { ... }
+
+
+
+
+#hero{
+    
+  background-image: url(../img/sub_header_home.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+    padding: 100px 0 100px 50px;
+    
+}
+#options .search{
+    
+   width: 25%; 
+    float: left;
+    
+    
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+
+
+@media (max-width: 767px) { 
+
+#options .search{
+    
+    
+   float: none; 
+    
+    
+}
+
+
+}
