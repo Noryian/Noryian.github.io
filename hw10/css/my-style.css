@@ -1,0 +1,58 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+#aqua{
+    background-color: aqua;
+    color: #fff;
+    text-align: center;
+    padding: 150px 0;
+    
+}
+#black{
+    
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 150px 0;
+}
+#bottom article{
+    
+   float: left;
+    width: 20%;
+    text-align: center;
+    padding: 50px 40px;
+    
+    
+}
+div.color{
+    background-color: black;
+    height: 40px;
+    
+    
+}
+div.oarnge{
+    background-color: orange;
+    height: 40px;
+    
+    
+}
+div.blue{
+    
+   background-color: aqua;
+    height: 40px;
+    
+}
+div.white{
+    
+    background-color: azure;
+    height: 40px;
+    
+}
+.clearfix:after{
+    display: block;
+    content: '.';
+    clear: both;
+    
+    
+}
