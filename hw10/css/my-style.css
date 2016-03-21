@@ -19,7 +19,7 @@
 #bottom article{
     
    float: left;
-    width: 20%;
+    width: 20.70%;
     text-align: center;
     padding: 50px 40px;
     
@@ -55,4 +55,38 @@ div.white{
     clear: both;
     
     
+}
+@media (max-width: 767px) { 
+
+#aqua{
+    
+    width: 50%;
+    float: left;
+    
+}
+    
+ #black{
+     width: 50%;
+     float: left;
+    
+     
+ }
+    #bottom{
+        
+        background-color: skyblue;
+        font: white;
+        
+        
+    }
+    #bottom article{
+       width: 30%; 
+        float: right;
+        clear: left;
+        
+        
+    }
+    
+
+
+
 }
