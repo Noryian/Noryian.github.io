@@ -1,0 +1,16 @@
+#hero{
+    
+    background-image: url(../img/sub_header_home.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+    padding: 100px 0 100px 50px;
+}
+.container div{
+    
+    text-align: center;
+    
+    
+}
