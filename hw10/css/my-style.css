@@ -80,8 +80,8 @@ div.white{
     }
     #bottom article{
        width: 30%; 
-        float: right;
-        clear: left;
+        /*float: right;*/
+        /*clear: left;*/
         
         
     }
