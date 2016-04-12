@@ -1,0 +1,50 @@
+#home{
+    
+    margin-top: 200px;
+    background-image: url(../img/back_lead.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #fff;
+    height: 1000px;
+    
+}
+.navbar{
+    
+ min-height: 180px;   
+    
+}
+.navbar-nav{
+    
+   margin-top: 136px; 
+    
+}
+
+.medium featured{
+  border-bottom-left-radius: 500px;
+  border-bottom-right-radius: 500px;  
+  border-bottom-style: none;  
+  line-height: 20px;  
+}
+#text{
+    
+    margin-top: 500px;
+    
+    
+}
+#insperation{
+    
+   text-align: center; 
+    
+}
+#footer{
+    
+    
+ background-image: url(../img/_medium_spaceatx_92860.png);
+ background-size:cover;
+ background-position: center;
+ background-repeat: no-repeat;
+ text-align: center;   
+ height: 250px;  
+}
